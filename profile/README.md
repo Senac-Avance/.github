@@ -19,6 +19,9 @@ A **Avance+** foi criada para tornar o aprendizado mais acessível e interativo.
 
 ## 🛠️ Tecnologias Utilizadas  
 🔸 **Frontend**: Vue.js  
-🔸 **Backend**: Nest.js    
+🔸 **Backend**: Nest.js
+🔸 **Banco de dados**: SQlite 
+🔸 **Deploy**: Render
+
 
 **Avance+** - Transformando estudo em aprovação! 💪✨

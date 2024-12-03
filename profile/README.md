@@ -1,4 +1,4 @@
-# 🎓 Avance+ - Sua Plataforma de Estudos para Concursos 📚
+# 🎓 Avance+ sua Plataforma de Estudos para Concursos 📚
 
 Bem-vindo à **Avance+**! 🚀 A plataforma que conecta alunos e professores em um único espaço para impulsionar seus estudos e conquistar o sucesso nos concursos! 🎯  
 
@@ -20,8 +20,6 @@ A **Avance+** foi criada para tornar o aprendizado mais acessível e interativo.
 ## 🛠️ Tecnologias Utilizadas  
 🔸 **Frontend**: Vue.js  
 🔸 **Backend**: Nest.js
-🔸 **Banco de dados**: SQlite 
-🔸 **Deploy**: Render
 
 
 **Avance+** - Transformando estudo em aprovação! 💪✨

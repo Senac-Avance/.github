@@ -12,14 +12,15 @@ A **Avance+** foi criada para tornar o aprendizado mais acessível e interativo.
 - **📝 Postagens de Alunos**: Compartilhe ideias, dicas e dúvidas com a comunidade.  
 - **🎥 Vídeos Curtos**: Professores compartilham vídeos rápidos e objetivos sobre temas essenciais.  
 
-## 🚀 Por que escolher a Avance+?  
+## 🚀 O melhor da Avance+
 - 👩‍🏫 **Aprenda**: Conteúdo criativo e valioso.  
 - 👥 **Comunidade Ativa**: Troque experiências com outros alunos que têm os mesmos objetivos que você.  
 - 📱 **Acessibilidade Total**: Estude onde e quando quiser, direto do seu celular ou computador.  
 
-## 🛠️ Tecnologias Utilizadas  
-🔸 **Frontend**: Vue.js  
-🔸 **Backend**: Nest.js
+## 🛠️ Tecnologias Utilizadas
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,vue,nest,typescript,javascript,html,css,vite,sqlite" />
+</p>
 
 
 **Avance+** - Transformando estudo em aprovação! 💪✨
